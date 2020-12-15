@@ -1,3 +1,3 @@
 # Password_Cracker
 
-I was doing hashtables and wanted to do that
+This repository is to test and learn new things to achieve my goal that is learning cybersecurity.  
