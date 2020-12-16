@@ -12,3 +12,6 @@ It is mainly done with hashlib with the help of some tutorials, sorry don't have
 
 Photos are going to be added.
 
+Hope you could learn or see something interesting while going through this repository.  
+You can also send me feedback, my contacts are in my bio.
+
